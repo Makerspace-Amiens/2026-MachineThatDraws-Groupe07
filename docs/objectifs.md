@@ -4,22 +4,23 @@ nav_order: 3
 title: Objectifs du projet
 ---
 
-# Introduction
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
-
 ## Contexte du Projet
 
-Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+Nous sommes des étudiants en 2ème année de cycle pré-ingénieur à Unilasalle Amiens.
 
 ## Objectifs du Projet
 
-Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede.
-
-# Existant
-
-Praesent blandit adipiscing velit. Suspendisse potenti. Donec mattis, pede vel pharetra blandit, magna ligula faucibus eros, id euismod lacus dolor eget odio.
+L'objectif de notre projet est de réaliser une machine capable de dessiner sur un plan 2D au format A4. Plus précisément, nous avons choisis l'option de réalisé un modèle contenant un bras articulé.
 
 # Cahier des Charges
 
-Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus.
+Nous avons dans un premier temps observé des modèles existant et disctuté avec nos enseignant afin de définir les besoins qui seront nécessaire à la réalisation de notre projet.
+
+nous avons alors défini le cahier des charges suivant :
+
+* réalisation d'un support pour crayon
+* réalisation d'une base stable
+* réalisation de 2 bras amovibles par rotation grace à des bobines
+* assemblage de l'ensemble afin d'avoir une base avec les moteurs faisant tourner à l'aide de courroies les bobibes pour déplacer les bras
+* mettre en place la tranformation d'une image vers un fichiers traçable par la machine
+* programmation des mouvements pour suivre le tracé demandé
