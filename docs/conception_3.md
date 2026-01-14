@@ -5,7 +5,7 @@ parent: Conception
 nav_order: 1
 ---
 
-# Prototypage
+# Assemblage
 
 Cette section comprendra tout nos assemblages.
 
@@ -28,4 +28,3 @@ Cette section comprendra tout nos assemblages.
 
 ---
 
-Une fois cette étape terminée, passez à l'[Création des pièces](/création des pièces).
