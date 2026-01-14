@@ -5,7 +5,7 @@ parent: Conception
 nav_order: 1
 ---
 
-# Prototypage
+# Création de pièces
 
 Cette section comprendra toutes pièces crées.
 
