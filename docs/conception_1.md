@@ -28,4 +28,4 @@ Cette section tout nos prototypes faits depuis le début du projet.
 
 ---
 
-Une fois cette étape terminée, passez à l'[Création des pièces](/création des pièces).
+Une fois cette étape terminée, passez à la [Création des pièces](conception_2).
