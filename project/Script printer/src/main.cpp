@@ -8,7 +8,7 @@ const byte enPin = 8;
 AccelStepper motorX(stepX , dirX);
 
 const int stepPerRev = 200;
-const int maxSpeed = 200;
+const int maxSpeed = 1000;
 const int acceleration = 100;
 
 void setup() {
@@ -44,7 +44,7 @@ void demiTour() {
         digitalWrite(stepX, LOW);
         delayMicroseconds(1000);
     }
-    delay(1000);
+    delay(100);
     digitalWrite(dirX, LOW);
     Serial.println("sens anti-horaire");
     for(int i = 0 ; i < stepPerRev ; i++) {
@@ -53,9 +53,9 @@ void demiTour() {
         digitalWrite(stepX, LOW);
         delayMicroseconds(1000);
     }
-    delay(1000);
+    delay(100);
 }
 
 void loop() {
-    demiTour2();
+    demiTour();
 }
