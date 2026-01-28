@@ -39,13 +39,6 @@ La machine peut également fonctionner comme un **traceur 2D**, capable de repro
 
 ## Vidéo de présentation
 
-{: .note }
-> La vidéo de présentation du projet sera ajoutée ultérieurement.
-
-<!--
-Quand la vidéo sera prête, décommente la ligne ci-dessous :
-
-<video src="images/intro_amiens.mp4" controls style="width: 100%;"></video>
--->
-
----
+<video controls width="100%">
+  <source src="images/video_drawbot_a4.mp4" type="video/mp4">
+</video>
