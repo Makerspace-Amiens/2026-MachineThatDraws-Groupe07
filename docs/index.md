@@ -9,40 +9,43 @@ permalink: /
 
 Bienvenue dans la documentation de notre machine à dessiner nommée **"DrawBot A4"**.
 
-Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+Ce site a pour objectif de présenter notre projet, d’expliquer son fonctionnement et de fournir les informations nécessaires pour comprendre, utiliser et reproduire la machine.
 
-Vous pouvez trouver ci-dessous les liens répertoriant les sources de notre projet (modèles 3D et code) :
+Vous trouverez ci-dessous les principales ressources liées au projet, notamment les modèles 3D et le code source.
 
 [Notre projet sur Onshape](https://cad.onshape.com/documents/2860ed3d58f1b518e6857770/w/82b3c0e474623135ccb76fa3/e/0cab16137cd459ee83ebe56e?renderMode=0&uiState=6936dc0e23fecc27d34268b2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Notre repo GitHub](https://github.com/Makerspace-Amiens/2026-MachineThatDraws-Groupe07/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Notre dépôt GitHub](https://github.com/Makerspace-Amiens/2026-MachineThatDraws-Groupe07/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 {: .note }
-> Le modèle 3D et la vidéo seront finalisés et mis à jour au fur et à mesure de l’avancement du projet.
+> Le modèle 3D et la vidéo de présentation seront mis à jour au fur et à mesure de l’avancement du projet.
 
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
-
-## Accès rapide
-- [Objectifs](objectifs)
-- [Conception](conception)
-- [Études & choix techniques](etudes)
-- [Pièces](pieces)
-- [Prototype](prototype)
-- [Assemblage](assemblage)
+<iframe
+  height="600"
+  width="100%"
+  src="https://modelembedder.net/embed?did=e069393fab7baea4fdb59362&wvm=v&wvmid=7b5e182986723ef343886fa5&eid=e6b6ce24fbb03acfda1a5889&elementType=ASSEMBLY"
+  frameborder="0">
+</iframe>
 
 ## À propos du projet
 
-Notre projet est une machine à dessiner utilisant un bras articulé. Il nous permet d’apprendre et d’expérimenter comment réaliser, par nous-mêmes, une machine répondant à une demande concrète : dessiner sur une feuille **A4**.
+Le **DrawBot A4** est une machine à dessiner utilisant un bras articulé.  
+Ce projet nous permet d’apprendre et d’expérimenter la conception et la réalisation d’une machine répondant à un besoin concret : dessiner sur une feuille **A4**.
 
-Le DrawBot A4 peut également fonctionner comme un traceur 2D, capable de reproduire du texte ou des images de manière relativement précise.
+La machine peut également fonctionner comme un **traceur 2D**, capable de reproduire des images ou du texte de manière relativement précise.
 
-## Poster
-![Poster projet](images/poster.jpg)
+## Poster du projet
 
-## Vidéo
+![Poster du projet DrawBot A4](images/poster.jpg)
+
+## Vidéo de présentation
+
 {: .note }
-> La vidéo de présentation sera ajoutée prochainement.
+> La vidéo de présentation du projet sera ajoutée ultérieurement.
 
-<!-- Quand elle sera prête, décommente la ligne ci-dessous :
+<!--
+Quand la vidéo sera prête, décommente la ligne ci-dessous :
+
 <video src="images/intro_amiens.mp4" controls style="width: 100%;"></video>
 -->
+
 ---
