@@ -35,7 +35,7 @@ La machine peut également fonctionner comme un **traceur 2D**, capable de repro
 
 ## Poster du projet
 
-![Poster du projet DrawBot A4](images/poster.jpg)
+![Poster du projet DrawBot A4](images/poster_drawbot_a4.png)
 
 ## Vidéo de présentation
 
