@@ -13,7 +13,7 @@ Ce site a pour objectif de présenter notre projet, d’expliquer son fonctionne
 
 Vous trouverez ci-dessous les principales ressources liées au projet, notamment les modèles 3D et le code source.
 
-[Notre projet sur Onshape](https://cad.onshape.com/documents/2860ed3d58f1b518e6857770/w/82b3c0e474623135ccb76fa3/e/0cab16137cd459ee83ebe56e?renderMode=0&uiState=6936dc0e23fecc27d34268b2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Notre projet sur Onshape]([https://cad.onshape.com/documents/2860ed3d58f1b518e6857770/w/82b3c0e474623135ccb76fa3/e/0cab16137cd459ee83ebe56e?renderMode=0&uiState=6936dc0e23fecc27d34268b2](https://cad.onshape.com/documents/e069393fab7baea4fdb59362/w/8d933c0b93562b63a8485ec1/e/e6b6ce24fbb03acfda1a5889)){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Notre dépôt GitHub](https://github.com/Makerspace-Amiens/2026-MachineThatDraws-Groupe07/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 {: .note }
